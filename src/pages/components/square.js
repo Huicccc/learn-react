@@ -18,6 +18,9 @@ export default function Holder() {
           width={300}
           height={300}
         />
+        <label htmlFor="image">
+          <b> Katsuko Saruhashi </b>
+        </label>
       </Square>
       <Square>
         <label for="image"> 
